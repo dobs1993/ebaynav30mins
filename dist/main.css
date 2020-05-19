@@ -124,5 +124,8 @@ li {
   #main-nav .my-ebay {
     display: none;
   }
+  #second-nav form, #second-nav small {
+    display: none;
+  }
 }
 /*# sourceMappingURL=main.css.map */
